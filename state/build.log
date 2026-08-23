@@ -1,13 +1,14 @@
-Feed: Rock Paper Shotgun — News
-  4 new article(s), 3 full-text fetched
-Feed: Rock Paper Shotgun — Reviews
-  0 new article(s), 0 full-text fetched
-Feed: Eurogamer — News
-  5 new article(s), 5 full-text fetched
-Feed: Eurogamer — Reviews
-  0 new article(s), 0 full-text fetched
-Feed: BBC News — World
-  16 new article(s), 16 full-text fetched
-Feed: Autosport
-  7 new article(s), 7 full-text fetched
-Wrote /home/runner/work/news-reader/news-reader/daily.epub and /home/runner/work/news-reader/news-reader/archive/2026-08-23.epub (32 articles)
+Feed: NYT - World News
+  19 new article(s), 0 full-text fetched
+Feed: BBC News - World
+  4 new article(s), 4 full-text fetched
+Feed: The Star - Nation
+  ERROR fetching feed: 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News/Nation
+Feed: The Star - News
+  ERROR fetching feed: 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News
+Feed: The Hollywood Reporter
+  10 new article(s), 10 full-text fetched
+Feed: Variety
+  10 new article(s), 10 full-text fetched
+Wrote /home/runner/work/news-reader/news-reader/daily.epub and /home/runner/work/news-reader/news-reader/archive/2026-08-22.epub (43 articles)
+WARNING: 2 feed(s) failed — see build-report.md

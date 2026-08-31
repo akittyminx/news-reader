@@ -1,7 +1,7 @@
 Feed: NYT - World News
-  21 new article(s), 0 full-text fetched
+  20 new article(s), 0 full-text fetched
 Feed: BBC News - World
-  12 new article(s), 12 full-text fetched
+  22 new article(s), 22 full-text fetched
 Feed: The Star - Nation
   ERROR fetching feed: 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News/Nation
 Feed: The Star - News
@@ -10,5 +10,5 @@ Feed: The Hollywood Reporter
   10 new article(s), 10 full-text fetched
 Feed: Variety
   10 new article(s), 10 full-text fetched
-Wrote /home/runner/work/news-reader/news-reader/daily.epub and /home/runner/work/news-reader/news-reader/archive/2026-08-30.epub (53 articles)
+Wrote /home/runner/work/news-reader/news-reader/daily.epub and /home/runner/work/news-reader/news-reader/archive/2026-08-31.epub (62 articles)
 WARNING: 2 feed(s) failed — see build-report.md

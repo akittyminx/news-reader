@@ -1,10 +1,10 @@
 # Build report
 
-Last run: 2026-09-18 14:24 PDT — 54 article(s) in the edition.
+Last run: 2026-09-19 14:23 PDT — 50 article(s) in the edition.
 
 | Category | Feed | Status | New articles | Notes |
 |---|---|---|---|---|
-| World News | NYT - World News | OK | 19 | fulltext failed for 'German Art Institutions Prepare for a Fight as Far Right Loo': 403 Client Error: Forbidden for url: https://www.nytimes.com/2026/09/18/world/europe/germany-afd-bau; fulltext failed for 'A Central African Hotel Has Become a Nightmare Prison for U.': 403 Client Error: Forbidden fo |
+| World News | NYT - World News | OK | 15 | fulltext failed for 'Behold the Most Handsome Melons in Mexico': 403 Client Error: Forbidden for url: https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-; fulltext failed for 'Inside the Breakdown of U.K.-Israel Relations Over West Bank': 403 Client Error: Forbidden for url: https://www. |
 | World News | BBC News - World | OK | 15 |  |
 | Malaysia News | The Star - Nation | FEED ERROR | 0 | 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News/Nation |
 | Malaysia News | The Star - News | FEED ERROR | 0 | 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News |

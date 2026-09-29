@@ -1,11 +1,11 @@
 # Build report
 
-Last run: 2026-09-27 16:47 PDT — 46 article(s) in the edition.
+Last run: 2026-09-28 17:59 PDT — 57 article(s) in the edition.
 
 | Category | Feed | Status | New articles | Notes |
 |---|---|---|---|---|
-| World News | NYT - World News | OK | 14 | fulltext failed for '5 Arrested on Suspicion of Terrorism Near RAF Fairford Air B': 403 Client Error: Forbidden for url: https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-ai; fulltext failed for 'Serbia’s Longtime President Aleksandar Vucic Resigns Post': 403 Client Error: Forbidden for u |
-| World News | BBC News - World | OK | 12 |  |
+| World News | NYT - World News | OK | 16 | fulltext failed for 'Release of Suspects in U.K. Prompts New Questions Over Possi': 403 Client Error: Forbidden for url: https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-; fulltext failed for '3 Egyptian Officials Convicted of Kidnapping Slain Italian S': 403 Client Error: Forbidden fo |
+| World News | BBC News - World | OK | 21 |  |
 | Malaysia News | The Star - Nation | FEED ERROR | 0 | 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News/Nation |
 | Malaysia News | The Star - News | FEED ERROR | 0 | 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News |
 | Hollywood & Entertainment | The Hollywood Reporter | OK | 10 |  |

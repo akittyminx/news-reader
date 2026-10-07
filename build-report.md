@@ -1,11 +1,11 @@
 # Build report
 
-Last run: 2026-10-05 18:45 PDT — 61 article(s) in the edition.
+Last run: 2026-10-06 17:41 PDT — 80 article(s) in the edition.
 
 | Category | Feed | Status | New articles | Notes |
 |---|---|---|---|---|
-| World News | NYT - World News | OK | 23 | fulltext failed for 'Russia Moves to Tamp Down Rumors About Plague Outbreak in Si': 403 Client Error: Forbidden for url: https://www.nytimes.com/2026/10/05/world/europe/russia-plague-s; fulltext failed for 'Brazil Election Could Give Bolsonaro a Key Role in Trump’s L': 403 Client Error: Forbidden fo |
-| World News | BBC News - World | OK | 18 |  |
+| World News | NYT - World News | OK | 34 | fulltext failed for 'Student Protests Expand to More Than 40 French Cities': 403 Client Error: Forbidden for url: https://www.nytimes.com/live/2026/10/06/world/france-protests-s; fulltext failed for 'UK Security Adviser Jonathan Powell Traveled to Israel Ahead': 403 Client Error: Forbidden for url:  |
+| World News | BBC News - World | OK | 26 |  |
 | Malaysia News | The Star - Nation | FEED ERROR | 0 | 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News/Nation |
 | Malaysia News | The Star - News | FEED ERROR | 0 | 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News |
 | Hollywood & Entertainment | The Hollywood Reporter | OK | 10 |  |

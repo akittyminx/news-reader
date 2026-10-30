@@ -1,11 +1,11 @@
 # Build report
 
-Last run: 2026-10-28 17:55 PDT — 71 article(s) in the edition.
+Last run: 2026-10-29 17:58 PDT — 72 article(s) in the edition.
 
 | Category | Feed | Status | New articles | Notes |
 |---|---|---|---|---|
-| World News | NYT - World News | OK | 31 | fulltext failed for 'Nigeria’s Ebola Patient Evacuated as Investigators Press for': 403 Client Error: Forbidden for url: https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-p; fulltext failed for 'Tommy Robinson Found Guilty of Harassing 2 UK Journalists': 403 Client Error: Forbidden for u |
-| World News | BBC News - World | OK | 20 |  |
+| World News | NYT - World News | OK | 30 | fulltext failed for 'How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivi': 403 Client Error: Forbidden for url: https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioi; fulltext failed for 'Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U': 403 Client Error: Forbidden fo |
+| World News | BBC News - World | OK | 22 |  |
 | Malaysia News | The Star - Nation | FEED ERROR | 0 | 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News/Nation |
 | Malaysia News | The Star - News | FEED ERROR | 0 | 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News |
 | Hollywood & Entertainment | The Hollywood Reporter | OK | 10 |  |

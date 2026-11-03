@@ -1,11 +1,11 @@
 # Build report
 
-Last run: 2026-11-01 17:43 MST — 46 article(s) in the edition.
+Last run: 2026-11-02 19:54 MST — 64 article(s) in the edition.
 
 | Category | Feed | Status | New articles | Notes |
 |---|---|---|---|---|
-| World News | NYT - World News | OK | 9 | fulltext failed for 'India’s Congress Party Holds Mass Protest in New Delhi': 403 Client Error: Forbidden for url: https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-prot; fulltext failed for 'Putin Breaks Down His Isolation, With a Big Assist From Trum': 403 Client Error: Forbidden for url: |
-| World News | BBC News - World | OK | 17 |  |
+| World News | NYT - World News | OK | 17 | fulltext failed for 'Russian Strike on Ukraine Humanitarian Hub Kills Dozens': 403 Client Error: Forbidden for url: https://www.nytimes.com/2026/11/02/world/europe/russian-strike-; fulltext failed for 'Why Orban and Vucic Broke With Trump on Election Denial': 403 Client Error: Forbidden for url: htt |
+| World News | BBC News - World | OK | 27 |  |
 | Malaysia News | The Star - Nation | FEED ERROR | 0 | 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News/Nation |
 | Malaysia News | The Star - News | FEED ERROR | 0 | 404 Client Error: Not Found for url: https://www.thestar.com.my/rss/News |
 | Hollywood & Entertainment | The Hollywood Reporter | OK | 10 |  |
